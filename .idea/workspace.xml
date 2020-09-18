@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f3f998c-7040-4a0f-9264-f463278afe05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1heXPhYet6K4NddnFb2vNbqrjuZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Go Test.go test github.com/lualfe/supply-test/services">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Supply" />
+      <working_directory value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <directory value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/lualfe/supply-test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Supply" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/lualfe/supply-test" />
+      <directory value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDeepDeps in github.com/lualfe/supply-test/services (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Supply" />
+      <working_directory value="$PROJECT_DIR$/services" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/lualfe/supply-test/services" />
+      <directory value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <filePath value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <pattern value="^\QTestDeepDeps\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDeepDeps in github.com/lualfe/supply-test/services" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Supply" />
+      <working_directory value="$PROJECT_DIR$/services" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/lualfe/supply-test/services" />
+      <directory value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <filePath value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <pattern value="^\QTestDeepDeps\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDependsAB_BA in github.com/lualfe/supply-test/services (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Supply" />
+      <working_directory value="$PROJECT_DIR$/services" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/lualfe/supply-test/services" />
+      <directory value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <filePath value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <pattern value="^\QTestDependsAB_BA\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="Supply" />
+      <working_directory value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <filePath value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/lualfe/supply-test/services" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Supply" />
+      <working_directory value="$PROJECT_DIR$/services" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/lualfe/supply-test/services" />
+      <directory value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <filePath value="$PROJECT_DIR$/../Hands-On-Software-Engineering-with-Golang" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test github.com/lualfe/supply-test/services" />
+        <item itemvalue="Go Build.go build github.com/lualfe/supply-test" />
+        <item itemvalue="Go Test.TestDeepDeps in github.com/lualfe/supply-test/services (1)" />
+        <item itemvalue="Go Test.TestDeepDeps in github.com/lualfe/supply-test/services" />
+        <item itemvalue="Go Test.TestDependsAB_BA in github.com/lualfe/supply-test/services (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f3f998c-7040-4a0f-9264-f463278afe05" name="Default Changelist" comment="" />
+      <created>1600372508518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600372508518</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="290" key="#Go_Modules" timestamp="1600372886460">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="520" y="290" key="#Go_Modules/0.0.1440.900@0.0.1440.900" timestamp="1600372886460" />
+    <state x="460" y="281" key="#Notifications" timestamp="1600435068154">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="460" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1600435068154" />
+    <state width="813" height="507" key="DebuggerActiveHint" timestamp="1600439050322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="813" height="507" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1600439050322" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1600463839302">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600463839302" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1600463839301">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600463839301" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1600463839300">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600463839300" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1600463839301">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600463839301" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1600440230043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600440230043" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1600440230042">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600440230042" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1600440230041">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600440230041" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1600440230043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600440230043" />
+    <state x="111" y="178" key="SettingsEditor" timestamp="1600404348221">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="111" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600404348221" />
+    <state x="520" y="316" key="scopes" timestamp="1600372580182">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="520" y="316" key="scopes/0.0.1440.900@0.0.1440.900" timestamp="1600372580182" />
+  </component>
+</project>
